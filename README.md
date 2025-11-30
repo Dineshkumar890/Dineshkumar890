@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dineshkumar890
-- 👀 I’m interested in Testing and Devops 
-- 🌱 I’m currently learning PGAdmin SQL
-- 💞️ I’m looking to collaborate on learning core Java from scratch 
+- 👀 I’m interested in Kubernetes Adminstrator
+- 🌱 I’m currently learning kubernetes and python
+- 💞️ I’m looking to collaborate on learning kubernetes and python from scratch 
 - 📫 How to reach me @ 8608208970
 
 <!---
